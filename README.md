@@ -18,7 +18,8 @@ Interactive & User-Friendly UI: Clean layout with intuitive navigation.
 
 📸 Screenshots
 
-(Add your project screenshots here)
+<img width="1879" height="915" alt="image" src="https://github.com/user-attachments/assets/88332802-1960-41db-b7c8-e6abb3a83c5a" />
+
 
 📦 Installation
 git clone <repository-url>
@@ -41,7 +42,7 @@ npm start
 │── /public
 │── /views
 │── /routes
-│── /controllers
+│── /init
 │── /models
 │── app.js
 │── README.md
